@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Johnson
+comment0.text=\r\n\ Clase\ que\ representa\ las\ vacunas\ de\ Johnson.\ Sobrescribe\ el\ metodo\ isJohnson\ para\ identificar\ las\ vacunas\ de\ este\ tipo\ en\ la\ clinica\ y\ asi\ evitar\ el\ uso\ de\ la\ palabra\ reservada\ "instanceof".\u0000\r\n\ \r\n\ @author\ Gonzalo\ Garc\u00EDa\ Torre\r\n\ @version\ 21/03/2021\r\n
+comment1.params=
+comment1.target=Johnson()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Johnson\r\n
+comment2.params=
+comment2.target=boolean\ isJohnson()
+comment2.text=\r\n\ Metodo\ sobreescrito\ para\ identificar\ las\ vacunas\ de\ Johnson\ que\ hay\ en\ la\ clinica.\r\n
+numComments=3

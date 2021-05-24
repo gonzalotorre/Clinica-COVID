@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Clinica
+comment0.text=\r\n\ Clase\ con\ el\ metodo\ main\ para\ poder\ ejecutar\ el\ programa,\ se\ crea\ una\ instancia\ del\ controlador\ donde\ se\ gestiona\ la\ aplicaci\u00F3n.\r\n\ \r\n\ @author\ Gonzalo\ Garc\u00EDa\ Torre\r\n\ @version\ 21/03/2021\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

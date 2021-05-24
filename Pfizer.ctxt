@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Pfizer
+comment0.text=\r\n\ Clase\ que\ representa\ las\ vacunas\ de\ Pfizer.\u0000\ Sobrescribe\ el\ metodo\ isPfizer\ \ para\ identificar\ las\ vacunas\ de\ este\ tipo\ en\ la\ clinica\ y\ asi\ evitar\ el\ uso\ de\ la\ palabra\ reservada\ "instanceof".\u0000\r\n\ \r\n\ @author\ Gonzalo\ Garc\u00EDa\ Torre\r\n\ @version\ 21/03/2021\r\n
+comment1.params=
+comment1.target=Pfizer()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Pfizer\r\n
+comment2.params=
+comment2.target=boolean\ isPfizer()
+comment2.text=\r\n\ Metodo\ sobreescrito\ para\ identificar\ las\ vacunas\ de\ Pfizer\ que\ hay\ en\ la\ clinica.\r\n
+numComments=3

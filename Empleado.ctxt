@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Empleado
+comment0.text=\r\n\ Clase\ empleado\ que\ sirve\ para\ diferenciar\ las\ personas\ que\ son\ empleados\ de\ la\ cl\u00EDnica,\ tiene\ el\ alta\ y\ la\ baja\ de\ empleados.\r\n\ \r\n\ @author\ Gonzalo\ Garc\u00EDa\ Torre\r\n\ @version\ 21/03/2021\r\n
+comment1.params=
+comment1.target=Empleado()
+comment1.text=\r\n\ Constructor\ sin\ parametros\ de\ la\ clase\ Empleado\r\n
+comment2.params=nombre\ apellidos\ edad\ dni\ telefono\ codEmpleado
+comment2.target=Empleado(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ java.lang.String,\ int)
+comment2.text=\r\n\ Constructor\ con\ parametros\ de\ la\ clase\ Empleado\r\n
+comment3.params=
+comment3.target=java.util.Date\ getAlta()
+comment4.params=alta
+comment4.target=void\ setAlta(java.util.Date)
+comment5.params=
+comment5.target=java.util.Date\ getBaja()
+comment6.params=baja
+comment6.target=void\ setBaja(java.util.Date)
+numComments=7

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Almacen
+comment0.text=\r\n\ Clase\ almacen\ que\ guarda\ todas\ las\ vacunas\ de\ la\ clinica,\ ademas\ tiene\ dos\ metodos\ para\ actualizar\ y\ ver\ el\ stock\ de\ vacunas.\r\n\ \r\n\ @author\ Gonzalo\ Garc\u00EDa\ Torre\r\n\ @version\ 07/04/2021\r\n
+comment1.params=
+comment1.target=Almacen()
+comment1.text=\r\n\ Constructor\ sin\ parametros\ para\ la\ clase\ Almacen.\r\n
+comment2.params=
+comment2.target=void\ recibirStockVacunas()
+comment2.text=\r\n\ Metodo\ que\ crea\ una\ serie\ de\ vacunas\ que\ sirve\ para\ actualizar\ el\ stock\ de\ vacunas\ de\ la\ clinica.\r\n
+comment3.params=
+comment3.target=void\ visualizarStock()
+comment3.text=\r\n\ Metodo\ para\ ver\ el\ stock\ de\ vacunas\ que\ hay\ en\ la\ clinica.\r\n
+comment4.params=
+comment4.target=java.util.List\ getVacunas()
+comment5.params=vacunas
+comment5.target=void\ setVacunas(java.util.List)
+numComments=6
